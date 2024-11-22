@@ -1,0 +1,7 @@
+C:\Users\mhd\source\repos\enumeration\enumeration\bin\Debug\enumeration.exe.config
+C:\Users\mhd\source\repos\enumeration\enumeration\bin\Debug\enumeration.exe
+C:\Users\mhd\source\repos\enumeration\enumeration\bin\Debug\enumeration.pdb
+C:\Users\mhd\source\repos\enumeration\enumeration\obj\Debug\enumeration.csproj.AssemblyReference.cache
+C:\Users\mhd\source\repos\enumeration\enumeration\obj\Debug\enumeration.csproj.CoreCompileInputs.cache
+C:\Users\mhd\source\repos\enumeration\enumeration\obj\Debug\enumeration.exe
+C:\Users\mhd\source\repos\enumeration\enumeration\obj\Debug\enumeration.pdb
