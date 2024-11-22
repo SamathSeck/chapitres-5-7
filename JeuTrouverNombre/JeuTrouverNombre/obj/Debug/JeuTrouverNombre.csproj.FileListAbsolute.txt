@@ -1,0 +1,7 @@
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\bin\Debug\JeuTrouverNombre.exe.config
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\bin\Debug\JeuTrouverNombre.exe
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\bin\Debug\JeuTrouverNombre.pdb
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\obj\Debug\JeuTrouverNombre.csproj.AssemblyReference.cache
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\obj\Debug\JeuTrouverNombre.csproj.CoreCompileInputs.cache
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\obj\Debug\JeuTrouverNombre.exe
+C:\Users\mhd\source\repos\JeuTrouverNombre\JeuTrouverNombre\obj\Debug\JeuTrouverNombre.pdb
